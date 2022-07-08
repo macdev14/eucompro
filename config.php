@@ -17,7 +17,7 @@ The information below is required to connect the software to your MySQL
 database.
 */
 
-$db_host = "sql125.main-hosting.eu";//location of sql host - usually localhost
+$db_host = "localhost";//location of sql host - usually localhost
 
 $db_username = "u569026416_eucompro";//username used to connect to database
 $db_password = "3C[x#fH?";//password used to connect to database
